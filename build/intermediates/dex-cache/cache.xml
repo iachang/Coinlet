@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.1/2a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0/gson-2.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02a8e0aa38a2e21cb39e2f5a7d6704cbdc941da0">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/gson-2.8.1_90b738d843d7e72d5f57e5d0da786b28f1da0ecb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/converter-gson-2.0.0-beta2_c0b079c82fc09f6d9444d34d41c0e5da2c637334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/retrofit-2.0.0-beta2_a910d8a459c91bcaa8cb78e655f8319156e0fdcc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_980e61208b3b6a43fc8a2d82279143e4d78ad6c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.android/build-cache/835dca8b05290286701770bd407c35114bb78eff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/classes_fdb3b87c7ef319c9a112754e9f079e23f73a8815.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.android/build-cache/85d22f8b00ae72ccc62f01e06da21a5375a476b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/classes_5ab5323a6a7265065174fcade62b36faeb95af76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.android/build-cache/416aa3cf34bc75f1a619ff0b169405bf0120761a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/classes_ab6af086da237430f41840a39fef428973117a6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.android/build-cache/e87d7341dbda56e9287e9229cf65e442a7c2d8e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/classes_4238709e347b3083f66fd01c1158c83d3231c3e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/support-annotations-25.3.1_42feb2cd3f1bbac5460f878a9d95965ce70d560a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.android/build-cache/21587207e3e8bf969a1f7f67296bb033d0fa3c15/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b74e6684048d5e4a6db0f2552241966f85c78993">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/classes_92abda04260c9e6d004935051a9b5b75d7710b4b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d2273f38e622f52e09166a7e8d4fe8a76807704">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ad6236e2fca5917d31a85e62f33b92b60018b4de/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.android/build-cache/533ade1257d22b3171a7f4c4f075c145ff7dfa86/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/classes_2a0c21784a52356b45f49557354c7aa4c5def4cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.android/build-cache/b4e7b2ceed8cc9f4618cc9d0b7fddf3a156ce089/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/classes_f007acb51b9d0eef16720959194c2068bf03bcf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.android/build-cache/5668cd25fc19017b6634a6fb7f25605666b9835d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/classes_efd6ab6d047553b8f424d39d40a0fd5d49b29388.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/okhttp-2.5.0_830b1eb4c508eb0841faed51af0b0aa4482f8110.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.android/build-cache/bb739eda0bb9134406f6858e9b0d217044652f1b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/classes_e89fa12e1c3f9bff78366025ac63da9953015566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.android/build-cache/6f14460d094e3365f3a0c3b03bfcb8279452c26f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/classes_9587c2e8e1cd538cd78f3fa02e2f4383a643135b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.android/build-cache/807acf3f9ea1d583e3da9d733aa89aee4f0c8581/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/classes_ac6502217bd7eece935abf8a7360a3fe05f22320.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.android/build-cache/117d023fee63acba90d49fac5d9ae4a636eea672/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a46c277098d453b4886db28568d627c283e53a04">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/classes_59d51542fe619065aad53a1aad3f4069c7993233.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/okio-1.6.0_0becd21e3b03d14f894846ebc14f3dbce87d47ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/ichang/.android/build-cache/11be3cc7d1e9020b44fd54e44969b7db2882801d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/ichang/Desktop/Android_App_Projects/Coinlet/app/build/intermediates/pre-dexed/release/classes_d88ce6afe63902a1f4ead092b4658f65069f9b2f.jar" />
+    </item>
+
+</items>

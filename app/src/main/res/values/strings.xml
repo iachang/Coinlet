@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Coinlet</string>
+    <string name="coin_hint">Type in Coin Amount</string>
+    <string name="coin_amt">Coin Amount: </string>
+    <string name="add_coin_title">Add Coins</string>
+    <string name="add_coin_button">Add</string>
+    <string name="price_hint">Price</string>
+    <string name="num_coin_hint">Number of Coins </string>
+    <string name="sell_coin_title">Sell Coins</string>
+    <string name="sell_coin_button">Sell</string>
+    <string name="refresh_button">Refresh</string>
+    <string-array name="coin_array">
+        <item>Bitcoin</item>
+        <item>Ethereum</item>
+        <item>Litecoin</item>
+    </string-array>
+</resources>
